@@ -25,7 +25,9 @@ inspired by [996.ICU](https://github.com/996icu/996.ICU)，希望传播正能量
 ## 955.HOLIDAY 优秀公司
 
 * Google
-* IBM
+* [IBM](https://github.com/955holiday/955.holiday/issues/13)
+* [中国平安](https://github.com/955holiday/955.holiday/issues/18)
+* [中国民生银行（直销银行部门）](https://github.com/955holiday/955.holiday/issues/19)
 * ...
 
 
